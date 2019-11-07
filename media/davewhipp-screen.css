@@ -153,6 +153,11 @@ h3 {
 	font-variant: small-caps;
 }
 
+h3+p {
+  	text-align: justify;
+  	text-justify: inter-word;
+}
+
 a {
 	color: inherit;
 	/*text-decoration:none*/
