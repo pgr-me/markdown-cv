@@ -37,13 +37,13 @@ Graduated with honors, minor in chemistry
 
 ## SKILLS
 
-__Machine Learning:__ Regression, Classification, Clustering, Natural Language Processing, Time Series
+__Machine Learning__ Regression, Classification, Clustering, Natural Language Processing, Time Series
 
-__Programming:__ Python, SQL, Bash, Git, AWS & Google Cloud Compute
+__Programming__ Python, SQL, Bash, Git, AWS & Google Cloud Compute
 
-__Python Tools:__ Sci-Kit Learn, StatsModels, Jupyter, Numpy, Facebook Prophet, Pandas, Doit
+__Python Tools__ Sci-Kit Learn, StatsModels, Jupyter, Numpy, Facebook Prophet, Pandas, Doit
 
-__Geospatial Analysis:__ QGIS, Carto, PostGIS, Mapbox
+__Geospatial Analysis__ QGIS, Carto, PostGIS, Mapbox
 
 ## EXPERIENCE
 
@@ -79,7 +79,6 @@ __Analysis of Global Coaching Market__ To inform senior leadership's strategy re
 __Strengths Coach Bot__ Key member of initiative to prototype an Amazon Alexa-powered coach chat bot. My contributions included 1) connecting each piece of the application together so that it functioned as required; 2) debugging code; 3) meeting with senior leadership to discuss strategic options to continue to develop the prototype; 4) meeting with prospective client at its annual leadership retreat to discuss how the prototype could prove beneficial; 5) demonstrating utility of prototype to subset of retreat attendees, who by and large liked the prototype.
 
 __Ongoing Ecommerce Reporting__ Created data acquisition, cleaning, and analysis jobs in Python to generate reports for key stakeholders on various aspects of firm's ecommerce business.
-
 
 `June 1661 - now`
 __Trinity College, Cambridge__
