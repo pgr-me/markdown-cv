@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Peter's CV
+title: CV
 ---
 # Peter Rasmussen
 Data Scientist
@@ -32,15 +32,19 @@ Thesis: [Economic Impacts of Technical Change in Carbon Capture](https://pdfs.se
 `2006`
 __BSE, University of Iowa__ Chemical Engineering with Minor in Chemistry, Graduated with Honors
 
-### Skills
-#### Machine Learning
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Skills
 
+### Machine Learning
+Regression, Classification, Clustering, Natural Language Processing, Time Series
 
-### Research interests
+### Programming
+Python, SQL, Bash, Git, AWS & Google Cloud Compute
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Python Tools
+Sci-Kit Learn, StatsModels, Jupyter, Numpy, Facebook Prophet, Pandas, Doit
 
+### Geospatial Analysis
+QGIS, Carto, PostGIS, Mapbox
 
 ## Education
 
@@ -103,6 +107,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2019 -->
 
 
