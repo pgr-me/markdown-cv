@@ -2,7 +2,7 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
+# Peter Rasmussen
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
