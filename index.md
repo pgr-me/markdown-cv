@@ -37,13 +37,10 @@ Graduated with honors, minor in chemistry
 
 ## SKILLS
 
-<p style='text-align: left;'><b>Machine Learning </b>Regression, Classification, Clustering, NLP, Time Series</p>
-<p style='text-align: left;'><b>Programming </b>Python, SQL, Bash, Git, AWS & Google Cloud Compute</p>
-__Programming__ Python, SQL, Bash, Git, AWS & Google Cloud Compute
-
-__Python Tools__ Sci-Kit Learn, StatsModels, Jupyter, Numpy, Facebook Prophet, Pandas, Doit
-
-__Geospatial Analysis__ QGIS, Carto, PostGIS, Mapbox
+<p style='text-align: left;'><b>Machine Learning </b>Regression | Classification | Clustering | NLP | Time Series</p>
+<p style='text-align: left;'><b>Programming </b>Python | SQL | Bash | Git | AWS, Google Cloud Compute</p>
+<p style='text-align: left;'><b>Python Tools </b>Sci-Kit Learn | StatsModels | Jupyter | Numpy | Facebook Prophet | Pandas | Doit</p>
+<p style='text-align: left;'><b>Geospatial Tools </b>QGIS | Carto | PostGIS | Mapbox</p>
 
 ## EXPERIENCE
 
