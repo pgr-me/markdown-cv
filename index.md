@@ -31,9 +31,9 @@ __MSIEOR, University of Massachusetts-Amherst__ Industrial Engineering & Operati
 Thesis: [Economic Impacts of Technical Change in Carbon Capture](https://pdfs.semanticscholar.org/f71c/845c6138f339d273238b250549b8c0b40a8c.pdf)
 
 `2006`
-__BSE, University of Iowa__ 
+__BSE, University of Iowa__ Chemical Engineering
 
-Chemical Engineering, Minor in Chemistry, Graduated with Honors
+Graduated with honors, minor in chemistry
 
 ## Skills
 
@@ -47,19 +47,15 @@ __Geospatial Analysis:__ QGIS, Carto, PostGIS, Mapbox
 
 ## Experience
 
+<!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 ### Accenture Federal
-`2019.8 - Now`
-__Data Scientist,__ Washington, DC
+`Jan 2019 - Present` __Data Scientist,__ Washington, DC
 
 __Commute Optimization Project__ Designed and developed software that recommends - using a bipartite matching algorithm - optimal set of intra-company role swaps that minimize commute times. Organized data processing into discrete tasks using a Python-based workflow automation tool: acquisition, cleaning, routing, post-routing processing, recommendation, and reporting.
 
+<!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 ### Gallup
-__Washington, DC__
-
-`Feb 2017 - Aug 2019`
-__Lead Data Scientist__
-* ASDF
-* ASDF
+`Feb 2017 - Aug 2019` __Lead Data Scientist,__ Washington, DC
 
 __Automation of Survey Data Processing__ Designed data processing pipeline for global, multi-million dollar polling project to automate country-level survey data cleaning processes that used to be carried out manually. Impact: Processing time reduced from up to three months to less than three hours per survey.
 
@@ -71,12 +67,18 @@ __Hierarchical Engagement Visualization Tool__ Created JavaScript tool that uses
 
 __Understanding Group Biases__ As part of an AI solution for a defense research entity to understand group biases, designed and coded a web scraping tool to retrieve, organize, and assimilate reader comments data from popular press articles across the political spectrum. Please visit https://github.com/GallupGovt/ugb to see which portions of the code base I contributed to.
 
+`Feb 2017 - Jan 2019` __Application Developer__
 
+__Price Optimization Model__ Used Bayesian structural time series and econometric techniques to estimate optimal pricing that influenced senior leadership to drastically change prices of signature products with potential multi-million dollar YoY impact on revenue.
 
+__Job Title Classifier__ Built logistic regression job title classifier using NLP techniques to generate standardized set of job types, which we used as data inputs to score marketing leads.
 
-* Designed data processing pipeline for global, multi-million dollar polling project
-* Trained ensemble of dimensionality reduction and hierarchical Gaussian mixture
-models to cluster personality assessment data into hierarchically organized personality types
+__Analysis of Global Coaching Market__ To inform senior leadership's strategy regarding coaches, led the quantitative analysis of the global coaching market. Identified key market segments and quantified served and addressable portions of each. Organized findings into presentation and delivered my portion of the work to key stakeholders.
+
+__Strengths Coach Bot__ Key member of initiative to prototype an Amazon Alexa-powered coach chat bot. My contributions included 1) connecting each piece of the application together so that it functioned as required; 2) debugging code; 3) meeting with senior leadership to discuss strategic options to continue to develop the prototype; 4) meeting with prospective client at its annual leadership retreat to discuss how the prototype could prove beneficial; 5) demonstrating utility of prototype to subset of retreat attendees, who by and large liked the prototype.
+
+__Ongoing Ecommerce Reporting__ Created data acquisition, cleaning, and analysis jobs in Python to generate reports for key stakeholders on various aspects of firm's ecommerce business.
+
 
 `June 1661 - now`
 __Trinity College, Cambridge__
