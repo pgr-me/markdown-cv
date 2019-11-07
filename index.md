@@ -22,24 +22,15 @@ Peter has a Masters and Bachelors in Industrial Engineering and Chemical Enginee
 
 ## Education
 
-`2006`
-__University of Iowa, Grantham.__
-Iowa City, Iowa
-Graduated With Honors
-* Bullet test
-- Hyphen test
+`2016` __Certification, Metis__  Data Science Bootcamp
 
 `2012`
-__University of Massachusetts-Amherst__
+__MSIEOR, University of Massachusetts-Amherst__ Industrial Engineering & Operations Research
 
-Amherst, Massachusetts
-- Sizar
+Thesis: Economic Impacts of Technical Change in Carbon Capture
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2006`
+__BSE, University of Iowa__ Chemical Engineering, Minor in Chemistry, Graduated with Honors
 
 ### Specialized in
 
