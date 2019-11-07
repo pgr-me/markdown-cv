@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: CV
+title: PGR
 ---
 # PETER RASMUSSEN
 Data Scientist
