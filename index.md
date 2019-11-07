@@ -31,7 +31,9 @@ __MSIEOR, University of Massachusetts-Amherst__ Industrial Engineering & Operati
 Thesis: [Economic Impacts of Technical Change in Carbon Capture](https://pdfs.semanticscholar.org/f71c/845c6138f339d273238b250549b8c0b40a8c.pdf)
 
 `2006`
-__BSE, University of Iowa__ Chemical Engineering with Minor in Chemistry, Graduated with Honors
+__BSE, University of Iowa__ 
+
+Chemical Engineering, Minor in Chemistry, Graduated with Honors
 
 ## Skills
 
@@ -45,13 +47,11 @@ __Geospatial Analysis:__ QGIS, Carto, PostGIS, Mapbox
 
 ## Experience
 
-### Accenture Federal <br/> Washington, DC
+### Accenture Federal
 `2019.8 - Now`
-__Lead Data Scientist__
+__Data Scientist,__ Washington, DC
 
 __Commute Optimization Project__ Designed and developed software that recommends - using a bipartite matching algorithm - optimal set of intra-company role swaps that minimize commute times. Organized data processing into discrete tasks using a Python-based workflow automation tool: acquisition, cleaning, routing, post-routing processing, recommendation, and reporting.
-
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
 ### Gallup
 __Washington, DC__
