@@ -22,7 +22,8 @@ Peter has a Masters and Bachelors in Industrial Engineering and Chemical Enginee
 
 ## Education
 
-`2016` __Certification, Metis Data Science Bootcamp__
+`2016` 
+__Certification, Metis Data Science Bootcamp__
 
 `2012`
 __MSIEOR, University of Massachusetts-Amherst__ Industrial Engineering & Operations Research
@@ -34,8 +35,7 @@ __BSE, University of Iowa__ Chemical Engineering with Minor in Chemistry, Gradua
 
 ## Skills
 
-### Machine Learning
-Regression, Classification, Clustering, Natural Language Processing, Time Series
+__Machine Learning__ Regression, Classification, Clustering, Natural Language Processing, Time Series
 
 ### Programming
 Python, SQL, Bash, Git, AWS & Google Cloud Compute
