@@ -37,8 +37,8 @@ Graduated with honors, minor in chemistry
 
 ## SKILLS
 
-- __Machine Learning__ Regression, Classification, Clustering, NLP, Time Series
-
+<p style='text-align: left;'><b>Machine Learning </b>Regression, Classification, Clustering, NLP, Time Series</p>
+<p style='text-align: left;'><b>Programming </b>Python, SQL, Bash, Git, AWS & Google Cloud Compute</p>
 __Programming__ Python, SQL, Bash, Git, AWS & Google Cloud Compute
 
 __Python Tools__ Sci-Kit Learn, StatsModels, Jupyter, Numpy, Facebook Prophet, Pandas, Doit
@@ -50,10 +50,6 @@ __Geospatial Analysis__ QGIS, Carto, PostGIS, Mapbox
 <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 ### Accenture Federal
 `Jan 2019 - Present` __Data Scientist__ Washington, DC
-
-<div style="text-align: justify"><p> your-text-here Designed and developed software that recommends - using a bipartite matching algorithm - optimal set of intra-company role swaps that minimize commute times. Organized data processing into discrete tasks using a Python-based workflow automation tool: acquisition, cleaning, routing, post-routing processing, recommendation, and reporting</p></div>
-
-<div style="text-align: left"><p> your-text-here Designed and developed software that recommends - using a bipartite matching algorithm - optimal set of intra-company role swaps that minimize commute times. Organized data processing into discrete tasks using a Python-based workflow automation tool: acquisition, cleaning, routing, post-routing processing, recommendation, and reporting</p></div>
 
 *Commute Optimization Project.* Designed and developed software that recommends - using a bipartite matching algorithm - optimal set of intra-company role swaps that minimize commute times. Organized data processing into discrete tasks using a Python-based workflow automation tool: acquisition, cleaning, routing, post-routing processing, recommendation, and reporting.
 
