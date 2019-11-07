@@ -45,8 +45,10 @@ __Geospatial Analysis:__ QGIS, Carto, PostGIS, Mapbox
 
 ## Experience
 
-### Accenture Federal Services
-`Aug 2019 - Present`
+### Accenture Federal <br/> Washington, DC
+`2019.8 - Now`
+__Lead Data Scientist__
+
 __Commute Optimization Project__ Designed and developed software that recommends - using a bipartite matching algorithm - optimal set of intra-company role swaps that minimize commute times. Organized data processing into discrete tasks using a Python-based workflow automation tool: acquisition, cleaning, routing, post-routing processing, recommendation, and reporting.
 
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
@@ -58,6 +60,18 @@ __Washington, DC__
 __Lead Data Scientist__
 * ASDF
 * ASDF
+
+__Automation of Survey Data Processing__ Designed data processing pipeline for global, multi-million dollar polling project to automate country-level survey data cleaning processes that used to be carried out manually. Impact: Processing time reduced from up to three months to less than three hours per survey.
+
+__Hierarchical Personality Clustering__ Trained ensemble of dimensionality reduction and hierarchical Gaussian mixture models to cluster personality assessment data into hierarchically organized personality types.
+
+__Automating Scientific Knowledge Extraction__ As part of an AI project for a defense entity to create an ensemble of models to generate hypotheses for a domain of knowledge, I 1) built a research article scraping tool to retrieve and process open source papers and 2) developed a script to parse Markov Logic Network data and store it in a graph database. Please visit [repo](https://github.com/GallupGovt/multivac) to see which portions of the codebase I contributed to.
+
+__Hierarchical Engagement Visualization Tool__ Created JavaScript tool that uses D3 to visualize employee engagement hierarchically. That is, manager-to-manager engagement relationships from CEO down to the lowest level manager. Decision-makers can use tool to clearly see how the engagement of one manager affects their subordinate managers' engagement.
+
+__Understanding Group Biases__ As part of an AI solution for a defense research entity to understand group biases, designed and coded a web scraping tool to retrieve, organize, and assimilate reader comments data from popular press articles across the political spectrum. Please visit https://github.com/GallupGovt/ugb to see which portions of the code base I contributed to.
+
+
 
 
 * Designed data processing pipeline for global, multi-million dollar polling project
