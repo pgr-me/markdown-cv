@@ -37,7 +37,7 @@ Graduated with honors, minor in chemistry
 
 ## SKILLS
 
-__Machine Learning__ Regression, Classification, Clustering, Natural Language Processing, Time Series
+- __Machine Learning__ Regression, Classification, Clustering, NLP, Time Series
 
 __Programming__ Python, SQL, Bash, Git, AWS & Google Cloud Compute
 
@@ -51,11 +51,15 @@ __Geospatial Analysis__ QGIS, Carto, PostGIS, Mapbox
 ### Accenture Federal
 `Jan 2019 - Present` __Data Scientist__ Washington, DC
 
+<div style="text-align: justify"><p> your-text-here Designed and developed software that recommends - using a bipartite matching algorithm - optimal set of intra-company role swaps that minimize commute times. Organized data processing into discrete tasks using a Python-based workflow automation tool: acquisition, cleaning, routing, post-routing processing, recommendation, and reporting</p></div>
+
+<div style="text-align: left"><p> your-text-here Designed and developed software that recommends - using a bipartite matching algorithm - optimal set of intra-company role swaps that minimize commute times. Organized data processing into discrete tasks using a Python-based workflow automation tool: acquisition, cleaning, routing, post-routing processing, recommendation, and reporting</p></div>
+
 *Commute Optimization Project.* Designed and developed software that recommends - using a bipartite matching algorithm - optimal set of intra-company role swaps that minimize commute times. Organized data processing into discrete tasks using a Python-based workflow automation tool: acquisition, cleaning, routing, post-routing processing, recommendation, and reporting.
 
 <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 ### Gallup
-`Feb 2017 - Aug 2019` __Lead Data Scientist__ Washington, DC
+`2017.2 - 2019.8` __Lead Data Scientist__ Washington, DC
 
 *Automation of Survey Data Processing.* Designed data processing pipeline for global, multi-million dollar polling project to automate country-level survey data cleaning processes that used to be carried out manually. Impact: Processing time reduced from up to three months to less than three hours per survey.
 
