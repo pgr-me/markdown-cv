@@ -3,17 +3,21 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Peter Rasmussen
-Physicist, Mathematician, Cambridge professor.
+Data Scientist \& Consultant
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="peter.gray.rasmussen@gmail.com">peter.gray.rasmussen@gmail.com</a>
+| <a href="https://www.linkedin.com/in/petergrayrasmussen/">LinkedIn</a>
 </div>
 
 
-## Currently
+## Biography
 
-Standing on the shoulders of giants
+Peter Rasmussen is a Data Scientist based in Washington, DC. His multi-disciplinary background gives him a broad set of skills to tackle complex, unstructured problems.
+
+Prior to joining Accenture Federal Services, Peter was a lead data scientist at Gallup where he delivered high-value, high-visibility analyses and syntheses to senior leaders through the creative application of best-practice data science techniques. Before Gallup, Peter worked for a boutique management consultancy where he led the development of a SaaS data product and performed multiple quantitative analyses for clients in emerging markets, particularly in Sub-Saharan Africa. Before that, he worked for a Somali-Kenyan startup where he led a research team in analyzing investments in renewable energy and agricultural technologies, engineering design, and financial evaluation of potential projects.
+
+Peter has a Masters and Bachelors in Industrial Engineering and Chemical Engineering, respectively, plus a certification from Metis, a data science bootcamp.
 
 ### Specialized in
 
