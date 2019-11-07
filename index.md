@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Peter's CV
 ---
 # Peter Rasmussen
-Data Scientist & Consultant
+Data Scientist
 
 <div id="webaddress">
 <a href="peter.gray.rasmussen@gmail.com">peter.gray.rasmussen@gmail.com</a>
@@ -22,18 +22,18 @@ Peter has a Masters and Bachelors in Industrial Engineering and Chemical Enginee
 
 ## Education
 
-`2016` __Certification, Metis__  Data Science Bootcamp
+`2016` __Certification, Metis Data Science Bootcamp__
 
 `2012`
 __MSIEOR, University of Massachusetts-Amherst__ Industrial Engineering & Operations Research
 
-Thesis: Economic Impacts of Technical Change in Carbon Capture
+Thesis: [Economic Impacts of Technical Change in Carbon Capture](https://pdfs.semanticscholar.org/f71c/845c6138f339d273238b250549b8c0b40a8c.pdf)
 
 `2006`
-__BSE, University of Iowa__ Chemical Engineering, Minor in Chemistry, Graduated with Honors
+__BSE, University of Iowa__ Chemical Engineering with Minor in Chemistry, Graduated with Honors
 
-### Specialized in
-
+### Skills
+#### Machine Learning
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
