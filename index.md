@@ -35,16 +35,13 @@ __BSE, University of Iowa__ Chemical Engineering with Minor in Chemistry, Gradua
 
 ## Skills
 
-__Machine Learning__ Regression, Classification, Clustering, Natural Language Processing, Time Series
+__Machine Learning:__ Regression, Classification, Clustering, Natural Language Processing, Time Series
 
-### Programming
-Python, SQL, Bash, Git, AWS & Google Cloud Compute
+__Programming:__ Python, SQL, Bash, Git, AWS & Google Cloud Compute
 
-### Python Tools
-Sci-Kit Learn, StatsModels, Jupyter, Numpy, Facebook Prophet, Pandas, Doit
+__Python Tools:__ Sci-Kit Learn, StatsModels, Jupyter, Numpy, Facebook Prophet, Pandas, Doit
 
-### Geospatial Analysis
-QGIS, Carto, PostGIS, Mapbox
+__Geospatial Analysis:__ QGIS, Carto, PostGIS, Mapbox
 
 ## Education
 
