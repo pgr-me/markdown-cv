@@ -48,10 +48,10 @@ __Geospatial Analysis__ QGIS, Carto, PostGIS, Mapbox
 ## EXPERIENCE
 
 <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
-### ACCENTURE FEDERAL
-`Jan 2019 - Present` __DATA SCIENTIST__ Washington, DC
+### Accenture Federal
+`Jan 2019 - Present` __Data Scientist__ Washington, DC
 
-__Commute Optimization Project__ Designed and developed software that recommends - using a bipartite matching algorithm - optimal set of intra-company role swaps that minimize commute times. Organized data processing into discrete tasks using a Python-based workflow automation tool: acquisition, cleaning, routing, post-routing processing, recommendation, and reporting.
+*Commute Optimization Project* Designed and developed software that recommends - using a bipartite matching algorithm - optimal set of intra-company role swaps that minimize commute times. Organized data processing into discrete tasks using a Python-based workflow automation tool: acquisition, cleaning, routing, post-routing processing, recommendation, and reporting.
 
 <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 ### Gallup
@@ -67,7 +67,7 @@ __Commute Optimization Project__ Designed and developed software that recommends
 
 *Understanding Group Biases* As part of an AI solution for a defense research entity to understand group biases, designed and coded a web scraping tool to retrieve, organize, and assimilate reader comments data from popular press articles across the political spectrum. Please visit [repo](https://github.com/GallupGovt/ugb) to see which portions of the code base I contributed to.
 
-### GALLUP
+### Gallup
 `Feb 2017 - Jan 2019` __Application Developer__ Washington, DC
 
 *Price Optimization Model* Used Bayesian structural time series and econometric techniques to estimate optimal pricing that influenced senior leadership to drastically change prices of signature products with potential multi-million dollar YoY impact on revenue.
@@ -80,59 +80,7 @@ __Commute Optimization Project__ Designed and developed software that recommends
 
 *Ongoing Ecommerce Reporting* Created data acquisition, cleaning, and analysis jobs in Python to generate reports for key stakeholders on various aspects of firm's ecommerce business.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
 ## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
 
 <!-- ### Footer
 
