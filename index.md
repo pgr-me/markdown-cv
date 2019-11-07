@@ -48,14 +48,14 @@ __Geospatial Analysis__ QGIS, Carto, PostGIS, Mapbox
 ## EXPERIENCE
 
 <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
-### Accenture Federal
-`Jan 2019 - Present` __Data Scientist,__ Washington, DC
+### ACCENTURE FEDERAL
+`Jan 2019 - Present` __DATA SCIENTIST__ Washington, DC
 
 __Commute Optimization Project__ Designed and developed software that recommends - using a bipartite matching algorithm - optimal set of intra-company role swaps that minimize commute times. Organized data processing into discrete tasks using a Python-based workflow automation tool: acquisition, cleaning, routing, post-routing processing, recommendation, and reporting.
 
 <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 ### Gallup
-`Feb 2017 - Aug 2019` __Lead Data Scientist,__ Washington, DC
+`Feb 2017 - Aug 2019` __LEAD DATA SCIENTIST__ Washington, DC
 
 __Automation of Survey Data Processing__ Designed data processing pipeline for global, multi-million dollar polling project to automate country-level survey data cleaning processes that used to be carried out manually. Impact: Processing time reduced from up to three months to less than three hours per survey.
 
@@ -67,8 +67,8 @@ __Hierarchical Engagement Visualization Tool__ Created JavaScript tool that uses
 
 __Understanding Group Biases__ As part of an AI solution for a defense research entity to understand group biases, designed and coded a web scraping tool to retrieve, organize, and assimilate reader comments data from popular press articles across the political spectrum. Please visit [repo](https://github.com/GallupGovt/ugb) to see which portions of the code base I contributed to.
 
-### Gallup
-`Feb 2017 - Jan 2019` __Application Developer,__ Washington, DC
+### GALLUP
+`Feb 2017 - Jan 2019` __APPLICATION DEVELOPER__ Washington, DC
 
 __Price Optimization Model__ Used Bayesian structural time series and econometric techniques to estimate optimal pricing that influenced senior leadership to drastically change prices of signature products with potential multi-million dollar YoY impact on revenue.
 
