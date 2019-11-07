@@ -43,10 +43,26 @@ __Python Tools:__ Sci-Kit Learn, StatsModels, Jupyter, Numpy, Facebook Prophet, 
 
 __Geospatial Analysis:__ QGIS, Carto, PostGIS, Mapbox
 
-## Education
+## Experience
 
-`1654-1660`
-__The King's School, Grantham.__
+### Accenture Federal Services
+`Aug 2019 - Present`
+__Commute Optimization Project__ Designed and developed software that recommends - using a bipartite matching algorithm - optimal set of intra-company role swaps that minimize commute times. Organized data processing into discrete tasks using a Python-based workflow automation tool: acquisition, cleaning, routing, post-routing processing, recommendation, and reporting.
+
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+
+### Gallup
+__Washington, DC__
+
+`Feb 2017 - Aug 2019`
+__Lead Data Scientist__
+* ASDF
+* ASDF
+
+
+* Designed data processing pipeline for global, multi-million dollar polling project
+* Trained ensemble of dimensionality reduction and hierarchical Gaussian mixture
+models to cluster personality assessment data into hierarchically organized personality types
 
 `June 1661 - now`
 __Trinity College, Cambridge__
