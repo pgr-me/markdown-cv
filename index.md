@@ -138,7 +138,7 @@ Modeled long-term economic impacts of technical change in carbon capture given v
 <!-- 2006.07-2009.08-->
 `2006-2009` __Staff Engineer__, Metairie, LA
 
-Managed environmental consulting projects across multiple sectors.
+Managed environmental consulting projects across multiple sectors. Successfully liaised between regulatory organizations and clients. Routinely developed reports, presentations, and proposals.
 
 ## Publications
 
