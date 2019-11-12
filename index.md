@@ -46,7 +46,7 @@ Python | SQL | Bash | Git | AWS
 Regression | Classification | Clustering | NLP | Time Series
 
 ### Python Libraries
-Sci-Kit Learn | StatsModels | Numpy | Pandas | Prophet | Doit
+Scikit-learn | StatsModels | Numpy | Pandas | Prophet | Doit
 
 ### Geospatial Tools
 QGIS | Carto | PostGIS | Mapbox | GDAL
