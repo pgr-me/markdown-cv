@@ -115,6 +115,8 @@ QGIS | Carto | PostGIS | Mapbox | GDAL
 
 *Digital Finance Market Analyses* Led quantitative analysis to develop value propositions for a multinational company seeking to enter digital finance markets in several African Markets. Financially modeled market potential and expected cash flows of Tanzanian mobile payments startup. Authored market-sizing and forecasting section of a commercial report on the characteristics, forecasts, and trends in MFC for several African markets.
 
+*South Africa Fiber Backbone Infrastructure Project* Analyzed key, critical-path operational issues and tracked progress to facilitate timely project completion. Developed financial models to assess cost to client and conducted quantitative analysis to facilitate resolution of key strategic issues.
+
 ### Chase Construction Limited
 <!-- 2011.10-2012-07 -->
 `2011-2012` __Project Manager__, Nairobi, Kenya
@@ -139,6 +141,11 @@ Modeled long-term economic impacts of technical change in carbon capture given v
 `2006-2009` __Staff Engineer__, Metairie, LA
 
 Managed environmental consulting projects across multiple sectors. Successfully liaised between regulatory organizations and clients. Routinely developed reports, presentations, and proposals.
+
+### University of Iowa
+`2002-2005` __Research Assistant__, Iowa City, IA
+
+Conducted research on microemulsions and their applications in the the development of environmentally-friendly photopolymers.
 
 ## Publications
 
