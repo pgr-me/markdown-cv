@@ -59,7 +59,7 @@ QGIS | Carto | PostGIS | Mapbox | GDAL
 <!-- 2019.8-Now-->
 `2019-Now` __Data Scientist__ Washington, DC
 
-*Commute Optimization Project.* Designed and developed software that recommends - using a bipartite matching algorithm - optimal set of intra-company role swaps that minimize commute times. Organized data processing into discrete tasks using a Python-based workflow automation tool: acquisition, cleaning, routing, post-routing processing, recommendation, and reporting.
+*Commute Optimization Project* Designed and developed software that recommends - using a bipartite matching algorithm - optimal set of intra-company role swaps that minimize commute times. Organized data processing into discrete tasks using a Python-based workflow automation tool: acquisition, cleaning, routing, post-routing processing, recommendation, and reporting.
 
 <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 
@@ -67,9 +67,9 @@ QGIS | Carto | PostGIS | Mapbox | GDAL
 <!--2019.1-2019.8-->
 `2019` __Lead Data Scientist__ Washington, DC
 
-*Automation of Survey Data Processing.* Designed data processing pipeline for global, multi-million dollar polling project to automate country-level survey data cleaning processes that used to be carried out manually. Impact: Processing time reduced from up to three months to less than three hours per survey.
+*Automation of Survey Data Processing* Designed data processing pipeline for global, multi-million dollar polling project to automate country-level survey data cleaning processes that used to be carried out manually. Impact: Processing time reduced from up to three months to less than three hours per survey.
 
-*Hierarchical Personality Clustering.* Trained ensemble of dimensionality reduction and hierarchical Gaussian mixture models to cluster personality assessment data into hierarchically organized personality types.
+*Hierarchical Personality Clustering* Trained ensemble of dimensionality reduction and hierarchical Gaussian mixture models to cluster personality assessment data into hierarchically organized personality types.
 
 *[Automating Scientific Knowledge Extraction](https://github.com/GallupGovt/multivac)* As part of an AI project for a defense research entity to create an ensemble of models to generate hypotheses for a domain of knowledge, I 1) built a research article scraping tool to retrieve and process open source papers and 2) developed a script to parse Markov Logic Network data and store it in a graph database.
 
@@ -92,17 +92,17 @@ QGIS | Carto | PostGIS | Mapbox | GDAL
 
 ### MITRE
 <!-- 2016.10-2017.02-->
-`2016-2017` __Senior Data Scientist__, McLean, VA
+`2016-2017` __Senior Data Scientist__ McLean, VA
 
-*Disability Claims Simulation.* Conceptualized and developed a discrete event simulation in Python to model disability claims processing for US Department of Veterans Affairs.
+*Disability Claims Simulation* Conceptualized and developed a discrete event simulation in Python to model disability claims processing for US Department of Veterans Affairs.
 
 ### Metis
 <!-- 2017.4-2017.6 -->
-`2017` __Data Scientist__, New York, NY
+`2017` __Data Scientist__ New York, NY
 
 *[Revealing Economic Growth Using Night Light Imagery](https://pgr-me.github.io/Lights/)* Used satellite night light imagery data to interpolate gaps in GDP data in countries for which this information was unavailable.
 
-*[Marijuana through the Lens of the New York Times.](https://pgr-me.github.io/Lights/)* Explored how the New York Time's view on marijuana has evolved using NLP, dimensionality reduction, and clustering techniques to semantically group articles into epochs. Identified key words in each cluster based on TF-IDF results and compared cluster words to trends in public opinion and historical events. Blog post featured in [Data Science Weekly](https://www.datascienceweekly.org/newsletters/data-science-weekly-newsletter-issue-133).
+*[Marijuana through the Lens of the New York Times](https://pgr-me.github.io/Lights/)* Explored how the New York Time's view on marijuana has evolved using NLP, dimensionality reduction, and clustering techniques to semantically group articles into epochs. Identified key words in each cluster based on TF-IDF results and compared cluster words to trends in public opinion and historical events. Blog post featured in [Data Science Weekly](https://www.datascienceweekly.org/newsletters/data-science-weekly-newsletter-issue-133).
 
 *[Visualization of Water Affordability](https://pgr-me.github.io/Water/)* Used univariate (Jenks) and multivariate (K-Means) clustering to understand stratification of water pricing and consumption in the US using Census data.
 
@@ -119,31 +119,31 @@ QGIS | Carto | PostGIS | Mapbox | GDAL
 
 ### Chase Construction Limited
 <!-- 2011.10-2012-07 -->
-`2011-2012` __Project Manager__, Nairobi, Kenya
+`2011-2012` __Project Manager__ Nairobi, Kenya
 
 Led research team in analyzing investments in renewable energy and agricultural technologies, from conducting fieldwork in Nairobi and Mogadishu to market research, engineering design, and financial evaluation of potential projects. Co-organized first TEDxMogadishu, a series of talks given by Somalis on the "rebirth" of Mogadishu, including the resurgence of the private sector.
 
 ### EWB
 <!-- 2010.06-2011-05 -->
-`2010-2011` __Program Manager__, Amherst, MA
+`2010-2011` __Program Manager__ Amherst, MA
 Managed Engineeers Without Borders (EWB) UMass Kenya program, which focused on improving the water quality in western Kenya for a rural community of approximately 10,000.
 
 ### UMass Amherst
 <!-- 2009.08-2011.05-->
-`2010-2011` __Research Assistant__, Amherst, MA
+`2010-2011` __Research Assistant__ Amherst, MA
 
 Modeled long-term economic impacts of technical change in carbon capture given various greenhouse gas emissions policies. Conducted sensitivity analyses of key performance drivers of carbon capture costs to simulate the impact of technical change on cost.
 
-`2009` __Teaching Assistant__, Amherst, MA
+`2009` __Teaching Assistant__ Amherst, MA
 
 ### ERM
 <!-- 2006.07-2009.08-->
-`2006-2009` __Staff Engineer__, Metairie, LA
+`2006-2009` __Staff Engineer__ Metairie, LA
 
 Managed environmental consulting projects across multiple sectors. Successfully liaised between regulatory organizations and clients. Routinely developed reports, presentations, and proposals.
 
 ### University of Iowa
-`2002-2005` __Research Assistant__, Iowa City, IA
+`2002-2005` __Research Assistant__ Iowa City, IA
 
 Conducted research on microemulsions and their applications in the the development of environmentally-friendly photopolymers.
 
