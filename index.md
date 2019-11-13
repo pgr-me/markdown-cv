@@ -97,8 +97,8 @@ QGIS | Carto | PostGIS | Mapbox | GDAL
 *Disability Claims Simulation* Conceptualized and developed a discrete event simulation in Python to model disability claims processing for US Department of Veterans Affairs.
 
 ### Metis
-<!-- 2017.4-2017.6 -->
-`2017` __Data Scientist__ New York, NY
+<!-- 2016.4-2016.6 -->
+`2016` __Data Scientist__ New York, NY
 
 *[Revealing Economic Growth Using Night Light Imagery](https://pgr-me.github.io/Lights/)* Used satellite night light imagery data to interpolate gaps in GDP data in countries for which this information was unavailable.
 
@@ -110,7 +110,8 @@ QGIS | Carto | PostGIS | Mapbox | GDAL
 
 ### HIP Consult
 <!-- 2013.02-2016.03 -->
-`2013-2016`
+`2013-2016`  __Analyst__ Washington, DC
+
 *[Fiber Optic Infrastructure Web Mapping](https://www.infranav.com/)* Led product development of SaaS infrastructure mapping prototype. Managed GIS team tasked with assimilating and mapping approximately 350,000 km of fiber optic infrastructure for 42 countries across Africa.
 
 *Digital Finance Market Analyses* Led quantitative analysis to develop value propositions for a multinational company seeking to enter digital finance markets in several African Markets. Financially modeled market potential and expected cash flows of Tanzanian mobile payments startup. Authored market-sizing and forecasting section of a commercial report on the characteristics, forecasts, and trends in MFC for several African markets.
@@ -126,6 +127,7 @@ Led research team in analyzing investments in renewable energy and agricultural 
 ### EWB
 <!-- 2010.06-2011-05 -->
 `2010-2011` __Program Manager__ Amherst, MA
+
 Managed Engineeers Without Borders (EWB) UMass Kenya program, which focused on improving the water quality in western Kenya for a rural community of approximately 10,000.
 
 ### UMass Amherst
