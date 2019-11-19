@@ -9,9 +9,8 @@ Data Scientist
 
 <div id="webaddress">
 <a href="peter.gray.rasmussen@gmail.com">peter.gray.rasmussen@gmail.com</a>
-| <a href="https://www.linkedin.com/in/petergrayrasmussen/">LinkedIn</a>
-| <a href="https://github.com/pgr-me">GitHub</a>
-| <a href="https://pgr-me.github.io">Blog</a>
+| <a href="https://www.linkedin.com/in/pgrme/">linkedin.com/in/pgrme</a>
+| <a href="https://github.com/pgr-me">github.com/pgr-me</a>
 </div>
 
 ## PROFILE
