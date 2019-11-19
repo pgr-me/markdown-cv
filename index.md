@@ -16,7 +16,7 @@ Data Scientist
 
 ## PROFILE
 
-Peter Rasmussen is a data scientist based in Washington, DC. His multi-disciplinary background gives him a broad set of skills to tackle complex, unstructured problems. Peter is especially interested in using his skills to solve problems in the domain of computational social science.
+I'm a data scientist based in Washington, DC. My multi-disciplinary background equips me with a broad set of skills to tackle complex, unstructured problems. I'm especially interested in using my skills to solve problems in the domain of computational social science.
 
 ## EDUCATION
 
