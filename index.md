@@ -148,7 +148,7 @@ Managed environmental consulting projects across multiple sectors. Successfully 
 
 Conducted research on microemulsions and their applications in the the development of environmentally-friendly photopolymers.
 
-## Publications
+## PUBLICATIONS
 
 Baker, E., Nemet, G.F., and Rasmussen, P. Modeling the Costs of Carbon Capture. Handbook of CO<sub>2</sub> in Power Systems. Ed. Zheng, Q.P. et al. Springer, April 2012.
 
