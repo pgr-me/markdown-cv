@@ -22,7 +22,7 @@ I'm a data scientist based in Washington, DC currently and Baltimore, MD by June
 ### MS
 
 `2023 (expected)`
-__Johns Hopkins University (enrolled)__ Artificial Intelligence
+__Johns Hopkins University__ Artificial Intelligence (enrolled)
 
 ### Certification
 
