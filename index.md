@@ -19,6 +19,11 @@ I'm a data scientist based in Washington, DC currently and Baltimore, MD by June
 
 ## EDUCATION
 
+### MS AI (enrolled)
+
+`2023 (expected graduation date)`
+__Johns Hopkins University__
+
 ### Certification
 
 `2016`
