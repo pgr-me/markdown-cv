@@ -8,7 +8,7 @@ title: pgr-me
 Data Scientist
 
 <div id="webaddress">
-<a href="pgr-me@protonmail.com">pgr-me@protonmail.com</a>
+<a href="mailto:pgr-me@protonmail.com">pgr-me@protonmail.com</a>
 | <a href="https://www.linkedin.com/in/pgrme/">linkedin.com/in/pgrme</a>
 | <a href="https://github.com/pgr-me">github.com/pgr-me</a>
 </div>
