@@ -70,7 +70,7 @@ QGIS | Carto | PostGIS | Mapbox | GDAL
 
 *USDA COVID Analytics Team* Oversaw team's data science and engineering operations. Developed ETL job to load Census data into enterprise data warehouse. Trained regression model using loan data to understand drivers of loan delinquencies.
 
-*Census Self-Response Quality Assurance* Trained supervised learning model to detect bot activity, synthesized analytical outputs into presentation, and presented actionable findings to customer. Designed and developed Python machine learning pipeline to ETL external and internal datasets that fed into unsupervised learning model. Created ETL pipeline in Python to move tens of millions of records from Hadoop to Oracle to faciliatate subsequent analysis in Oracle.
+*Census Self-Response Quality Assurance* Trained supervised learning model to detect bot activity, synthesized analytical outputs into presentation, and presented actionable findings to customer. [Designed and developed Python machine learning pipeline to ETL external and internal datasets that fed into unsupervised learning model](https://github.com/pgr-me/geoclusterizer). Created ETL pipeline in Python to move tens of millions of records from Hadoop to Oracle to faciliatate subsequent analysis in Oracle.
 
 *Commute Optimization Project* Designed and developed software that recommends - using a bipartite matching algorithm - optimal set of intra-company role swaps that minimize commute times. Organized data processing into discrete tasks using a Python-based workflow automation tool: acquisition, cleaning, routing, post-routing processing, recommendation, and reporting.
 
