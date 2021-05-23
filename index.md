@@ -8,14 +8,14 @@ title: pgr-me
 Data Scientist
 
 <div id="webaddress">
-<a href="peter.gray.rasmussen@gmail.com">peter.gray.rasmussen@gmail.com</a>
+<a href="pgr-me@protonmail.com">pgr-me@protonmail.com</a>
 | <a href="https://www.linkedin.com/in/pgrme/">linkedin.com/in/pgrme</a>
 | <a href="https://github.com/pgr-me">github.com/pgr-me</a>
 </div>
 
 ## PROFILE
 
-I'm a data scientist based in Washington, DC. My multi-disciplinary background equips me with a broad set of skills to tackle complex, unstructured problems. I'm especially interested in using my skills to solve problems in the domain of computational social science.
+I'm a data scientist based in Washington, DC currently and Baltimore, MD by June 2021. My multi-disciplinary background equips me with a broad set of skills to tackle complex, unstructured problems. I'm especially interested in using my skills to solve problems in the domains of marketing, computational social science, and finance.
 
 ## EDUCATION
 
