@@ -15,7 +15,7 @@ Data Scientist & Data Engineer
 
 ## PROFILE
 
-I'm a data scientist and data engineer based in Washington, DC currently and Baltimore, MD by June 2021. My multi-disciplinary background equips me with a broad set of skills to tackle complex, unstructured problems. I'm especially interested in using my skills to solve problems in the domains of marketing, computational social science, and finance.
+I'm a data scientist and data engineer based in the Baltimore-Washington area. My multi-disciplinary background equips me with a broad set of skills to tackle complex, unstructured problems. I'm especially interested in using my skills to solve problems in the domains of marketing, computational social science, and finance.
 
 ## EDUCATION
 
