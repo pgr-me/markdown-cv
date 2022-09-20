@@ -64,7 +64,7 @@ QGIS | Carto | PostGIS | Mapbox | GDAL
 
 ### Accenture Federal
 <!-- 2019.8-Now-->
-`2019-Now` __Data Scientist__ Washington, DC
+`2019-Now` __Analytics Associate Manager__ Washington, DC
 
 *[IARPA Space-Based Machine Automated Recognition Technique](https://www.iarpa.gov/research-programs/smart) (2021-2022)* Leadership of several modules in critical path played a key role in successfully reaching second phase of program. This success has contributed to follow-on research wins and serves as a credential in support of broader national security portfolio growth. Led two university teams & junior Accenture staff, integrating teams’ algorithms into pipeline under tight deadlines. For second client independent evaluation, made critical contribution by implementing innovative optimization routine. For third independent client evaluation, achieved step change improvement in scores by integrating outputs of both models.
 
