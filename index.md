@@ -5,7 +5,7 @@ title: pgr-me
 
 # PETER RASMUSSEN
 
-Data Scientist & Data Engineer
+Data Scientist
 
 <div id="webaddress">
 <a href="mailto:pgr-me@protonmail.com">pgr-me@protonmail.com</a>
@@ -16,30 +16,6 @@ Data Scientist & Data Engineer
 ## PROFILE
 
 I’m a data scientist whose multi-disciplinary background equips me with a broad set of skills to solve complex, unstructured problems.
-
-## EDUCATION
-
-### MS
-
-`2024 (expected)`
-__Johns Hopkins University__ Artificial Intelligence (enrolled)
-
-### Certification
-
-`2016`
-__Metis Data Science Bootcamp__
-
-### MSIEOR
-`2012`
-__UMass Amherst__ Industrial Engineering & Operations Research
-
-Thesis: [The Economic Impacts of Technical Change in Carbon Capture](https://pdfs.semanticscholar.org/f71c/845c6138f339d273238b250549b8c0b40a8c.pdf)
-
-### BSE
-`2006`
-__University of Iowa__ Chemical Engineering
-
-Graduated with honors, minor in chemistry
 
 ## SKILLS
 
@@ -161,6 +137,30 @@ Managed environmental consulting projects across multiple sectors. Successfully 
 `2002-2005` __Research Assistant__ Iowa City, IA
 
 Conducted research on microemulsions and their applications in the the development of environmentally-friendly photopolymers.
+
+## EDUCATION
+
+### MS
+
+`2024 (expected)`
+__Johns Hopkins University__ Artificial Intelligence (enrolled)
+
+### Certification
+
+`2016`
+__Metis Data Science Bootcamp__
+
+### MSIEOR
+`2012`
+__UMass Amherst__ Industrial Engineering & Operations Research
+
+Thesis: [The Economic Impacts of Technical Change in Carbon Capture](https://pdfs.semanticscholar.org/f71c/845c6138f339d273238b250549b8c0b40a8c.pdf)
+
+### BSE
+`2006`
+__University of Iowa__ Chemical Engineering
+
+Graduated with honors, minor in chemistry
 
 ## PUBLICATIONS
 
