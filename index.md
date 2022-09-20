@@ -15,13 +15,13 @@ Data Scientist & Data Engineer
 
 ## PROFILE
 
-I'm a data scientist and data engineer based in the Baltimore-Washington area. My multi-disciplinary background equips me with a broad set of skills to tackle complex, unstructured problems. I'm especially interested in using my skills to solve problems in the domains of marketing, computational social science, and finance.
+I’m a data scientist whose multi-disciplinary background equips me with a broad set of skills to solve complex, unstructured problems.
 
 ## EDUCATION
 
 ### MS
 
-`2023 (expected)`
+`2024 (expected)`
 __Johns Hopkins University__ Artificial Intelligence (enrolled)
 
 ### Certification
@@ -46,13 +46,11 @@ Graduated with honors, minor in chemistry
 ### Programming
 Python | SQL | Bash | Git | AWS
 
-
 ### Machine Learning
 Regression | Classification | Clustering | NLP | Time Series
 
 ### Big Data
 Hadoop | Hive | Impala | HQL
-
 
 ### Python Libraries
 Scikit-learn | StatsModels | Numpy | Pandas | Prophet | Doit
@@ -68,11 +66,13 @@ QGIS | Carto | PostGIS | Mapbox | GDAL
 <!-- 2019.8-Now-->
 `2019-Now` __Data Scientist__ Washington, DC
 
-*USDA COVID Analytics Team* Oversaw team's data science and engineering operations. Developed ETL job to load Census data into enterprise data warehouse. Trained regression model using loan data to understand drivers of loan delinquencies.
+*[IARPA Space-Based Machine Automated Recognition Technique](https://www.iarpa.gov/research-programs/smart) (2021-2022)* Leadership of several modules in critical path played a key role in successfully reaching second phase of program. This success has contributed to follow-on research wins and serves as a credential in support of broader national security portfolio growth. Led two university teams & junior Accenture staff, integrating teams’ algorithms into pipeline under tight deadlines. For second client independent evaluation, made critical contribution by implementing innovative optimization routine. For third independent client evaluation, achieved step change improvement in scores by integrating outputs of both models.
 
-*Census Self-Response Quality Assurance* Trained supervised learning model to detect bot activity, synthesized analytical outputs into presentation, and presented actionable findings to customer. [Designed and developed Python machine learning pipeline to ETL external and internal datasets that fed into unsupervised learning model](https://github.com/pgr-me/geoclusterizer). Created ETL pipeline in Python to move tens of millions of records from Hadoop to Oracle to facilitate subsequent analysis in Oracle.
+*USDA COVID Analytics Team (2020-2021)* Oversaw team's data science and engineering operations. Developed ETL job to load Census data into enterprise data warehouse. Trained regression model using loan data to understand drivers of loan delinquencies.
 
-*Commute Optimization Project* Designed and developed software that recommends - using a bipartite matching algorithm - an optimal set of intra-company role swaps that minimize commute times. Organized data processing into discrete tasks using a Python-based workflow automation tool: acquisition, cleaning, routing, post-routing processing, recommendation, and reporting.
+*Census Self-Response Quality Assurance (2020)* Trained supervised learning model to detect bot activity, synthesized analytical outputs into presentation, and presented actionable findings to customer. [Designed and developed Python machine learning pipeline to ETL external and internal datasets that fed into unsupervised learning model](https://github.com/pgr-me/geoclusterizer). Created ETL pipeline in Python to move tens of millions of records from Hadoop to Oracle to facilitate subsequent analysis in Oracle.
+
+*Commute Optimization Project (2019)* Designed and developed software that recommends - using a bipartite matching algorithm - an optimal set of intra-company role swaps that minimize commute times. Organized data processing into discrete tasks using a Python-based workflow automation tool: acquisition, cleaning, routing, post-routing processing, recommendation, and reporting.
 
 <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 
