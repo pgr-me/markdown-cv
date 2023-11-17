@@ -39,10 +39,15 @@ QGIS | Carto | PostGIS | Mapbox | GDAL
 <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 
 ### Accenture Federal
-<!-- 2019.8-Now-->
-`2019-Now` __Analytics Associate Manager__ Washington, DC
+<!-- 2023.12-Now-->
+`2023-Now` __Analytics Manager__ Washington, DC
 
-*[IARPA Space-Based Machine Automated Recognition Technique](https://www.iarpa.gov/research-programs/smart) (2021-2022)* Leadership of several modules in critical path played a key role in successfully reaching second phase of program. This success has contributed to follow-on research wins and serves as a credential in support of broader national security portfolio growth. Led two university teams & junior Accenture staff, integrating teams’ algorithms into pipeline under tight deadlines. For second client independent evaluation, made critical contribution by implementing innovative optimization routine. For third independent client evaluation, achieved step change improvement in scores by integrating outputs of both models.
+*[TBD](https://www.iarpa.gov/research-programs/smart) (2023-2023)* TBD.
+
+<!-- 2019.8-2023.11-->
+`2019-2023` __Analytics Associate Manager__ Washington, DC
+
+*[IARPA Space-Based Machine Automated Recognition Technique](https://www.iarpa.gov/research-programs/smart) (2021-2023)* Leadership of several modules in critical path played a key role in successfully reaching second phase of program. This success has contributed to follow-on research wins and serves as a credential in support of broader national security portfolio growth. Led two university teams & junior Accenture staff, integrating teams’ algorithms into pipeline under tight deadlines. For second client independent evaluation, made critical contribution by implementing innovative optimization routine. For third independent client evaluation, achieved step change improvement in scores by integrating outputs of both models.
 
 *USDA COVID Analytics Team (2020-2021)* Oversaw team's data science and engineering operations. Developed ETL job to load Census data into enterprise data warehouse. Trained regression model using loan data to understand drivers of loan delinquencies.
 
