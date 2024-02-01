@@ -42,7 +42,7 @@ QGIS | Carto | PostGIS | Mapbox | GDAL
 <!-- 2023.12-Now-->
 `2023-Now` __Analytics Manager__ Washington, DC
 
-*[TBD](https://www.iarpa.gov/research-programs/smart) (2023-2023)* TBD.
+*[IARPA Walkthrough Rendering from Images of Varying Altitude](https://www.iarpa.gov/research-programs/wriva) (2023-2024)* Leading effort to develop method to register disparate satellite, aerial, and ground imagery.
 
 <!-- 2019.8-2023.11-->
 `2019-2023` __Analytics Associate Manager__ Washington, DC
