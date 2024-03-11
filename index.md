@@ -169,10 +169,12 @@ Graduated with honors, minor in chemistry
 
 ## PUBLICATIONS
 
+Rasmussen, P., Abrahamson, J., Tang, X., Smith, O., Gray, J., Woodcock, C., & Bosch, M. (2023, July). Assessment of Performance of Tree-Based Algorithms to Reduce Errors of Omisssion and Commission in Change Detection. In IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium (pp. 6676-6679). IEEE.
+
 Baker, E., Nemet, G.F., and Rasmussen, P. Modeling the Costs of Carbon Capture. Handbook of CO<sub>2</sub> in Power Systems. Ed. Zheng, Q.P. et al. Springer, April 2012.
 
 Jain, K., Rasmussen, P., Rethwisch, D.G., and Scranton, A.B. Enhanced Epoxidation of Soybean Oil through Microemulsion Technique. Polymer Preprints, 45(2), 579-580, 2004.
 
 <!-- ### Footer
 
-Last updated: November 2019 -->
+Last updated: March 2024 -->
