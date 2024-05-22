@@ -169,6 +169,8 @@ Graduated with honors, minor in chemistry
 
 ## PUBLICATIONS
 
+Xiaojing Tang, Madison G. Barrett, Kangjoon Cho, Kelsee H. Bratley, Katelyn Tarrio, Yingtong Zhang, Hanfeng Gu, Peter Rasmussen, Marc Bosch, Curtis E. Woodcock (2024). Broad-area-search of new construction using time series analysis of Landsat and Sentinel-2 data. Science of Remote Sensing.
+
 Rasmussen, P., Abrahamson, J., Tang, X., Smith, O., Gray, J., Woodcock, C., & Bosch, M. (2023, July). Assessment of Performance of Tree-Based Algorithms to Reduce Errors of Omisssion and Commission in Change Detection. In IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium (pp. 6676-6679). IEEE.
 
 Baker, E., Nemet, G.F., and Rasmussen, P. Modeling the Costs of Carbon Capture. Handbook of CO<sub>2</sub> in Power Systems. Ed. Zheng, Q.P. et al. Springer, April 2012.
@@ -177,4 +179,4 @@ Jain, K., Rasmussen, P., Rethwisch, D.G., and Scranton, A.B. Enhanced Epoxidatio
 
 <!-- ### Footer
 
-Last updated: March 2024 -->
+Last updated: May 2024 -->
