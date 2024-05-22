@@ -147,8 +147,10 @@ Conducted research on microemulsions and their applications in the the developme
 
 ### MS
 
-`2024 (expected)`
-__Johns Hopkins University__ Artificial Intelligence (enrolled)
+`2024`
+__Johns Hopkins University__ Artificial Intelligence
+
+Graduated with honors
 
 ### Certification
 
