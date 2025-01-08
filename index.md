@@ -150,8 +150,6 @@ Conducted research on microemulsions and their applications in the the developme
 `2024`
 __Johns Hopkins University__ Artificial Intelligence
 
-Graduated with honors
-
 ### Certification
 
 `2016`
