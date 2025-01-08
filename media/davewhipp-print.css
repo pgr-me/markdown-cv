@@ -152,6 +152,7 @@ h3 {
 	top: 1.6em;
 	text-align: right;
 	width: 20%;
+	font-variant: small-caps;
 }
 
 a {
@@ -178,7 +179,7 @@ a:hover {
 
 em {
 	font-style: normal;
-	color: #2d4e5e
+	color: #bc412b;
 }
 
 strong {

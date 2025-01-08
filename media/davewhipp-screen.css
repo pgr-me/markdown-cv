@@ -151,6 +151,12 @@ h3 {
 	top: 1.7em;
 	text-align: right;
 	width: 20%;
+	font-variant: small-caps;
+}
+
+h3+p {
+  	text-align: justify;
+  	text-justify: inter-word;
 }
 
 a {
@@ -177,7 +183,8 @@ a:hover {
 
 em {
 	/* font-weight: bold; */
-	font-style: italic;
+	font-style: normal;
+	color: #bc412b;
 }
 
 strong {
