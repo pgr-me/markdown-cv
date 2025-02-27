@@ -5,7 +5,7 @@ title: pgr-me
 
 # PETER RASMUSSEN
 
-Data Scientist
+Data and Research Scientist
 
 <div id="webaddress">
 <a href="mailto:peter.g.rasmussen@afs.com">peter.g.rasmussen@afs.com</a>
