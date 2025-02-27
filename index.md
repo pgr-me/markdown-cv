@@ -8,31 +8,14 @@ title: pgr-me
 Data Scientist
 
 <div id="webaddress">
-<a href="mailto:pgr-me@protonmail.com">pgr-me@protonmail.com</a>
+<a href="mailto:peter.g.rasmussen@afs.com">peter.g.rasmussen@afs.com</a>
 | <a href="https://www.linkedin.com/in/pgrme/">linkedin.com/in/pgrme</a>
 | <a href="https://github.com/pgr-me">github.com/pgr-me</a>
 </div>
 
 ## PROFILE
 
-I’m a data scientist whose multi-disciplinary background equips me with a broad set of skills to solve complex, unstructured problems.
-
-## SKILLS
-
-### Programming
-Python | SQL | Bash | Git | AWS
-
-### Machine Learning
-Regression | Classification | Clustering | NLP | Time Series
-
-### Big Data
-Hadoop | Hive | Impala | HQL
-
-### Python Libraries
-Scikit-learn | StatsModels | Numpy | Pandas | Prophet | Doit
-
-### Geospatial Tools
-QGIS | Carto | PostGIS | Mapbox | GDAL
+Data and Research Scientist specializing in computer vision (CV), remote sensing, and anomaly detection.
 
 ## EXPERIENCE
 
@@ -42,7 +25,9 @@ QGIS | Carto | PostGIS | Mapbox | GDAL
 <!-- 2023.12-Now-->
 `2023-Now` __Analytics Manager__ Washington, DC
 
-*[IARPA Walkthrough Rendering from Images of Varying Altitude](https://www.iarpa.gov/research-programs/wriva) (2023-2024)* Leading effort to develop method to register disparate satellite, aerial, and ground imagery.
+*Qwirkle Computer Vision Project (2024-2025)* In first iteration, conceived of and implemented production-grade broad area search classifier pipeline that detects anomalous objects. In second iteration, developing instance segmentation pipeline to be trained on hundreds of Gigabytes of imagery data. Wireframed frontend design for a human-in-the-loop prediction and annotation app that uses said pipeline as a prediction backend.
+
+*[IARPA Walkthrough Rendering from Images of Varying Altitude](https://www.iarpa.gov/research-programs/wriva) (2023-2024)* Led effort that developed method to register disparate satellite, aerial, and ground imagery. Researched novel methods to represent 3D scenes using 2D imagery.
 
 <!-- 2019.8-2023.11-->
 `2019-2023` __Analytics Associate Manager__ Washington, DC
@@ -169,14 +154,29 @@ Graduated with honors, minor in chemistry
 
 ## PUBLICATIONS
 
-Xiaojing Tang, Madison G. Barrett, Kangjoon Cho, Kelsee H. Bratley, Katelyn Tarrio, Yingtong Zhang, Hanfeng Gu, Peter Rasmussen, Marc Bosch, Curtis E. Woodcock (2024). Broad-area-search of new construction using time series analysis of Landsat and Sentinel-2 data. Science of Remote Sensing.
+Gu, Hanfeng, Xiaojing Tang, Kangjoon Cho, Amanda J. Acord, Peter G. Rasmussen, Marc Bosch, and Curtis E. Woodcock. "Detection of Heavy Construction Activities with the Integration of Landsat and Sentinel-1 Time Series." Available at SSRN 5042185, 2024.
 
-Rasmussen, P., Abrahamson, J., Tang, X., Smith, O., Gray, J., Woodcock, C., & Bosch, M. (2023, July). Assessment of Performance of Tree-Based Algorithms to Reduce Errors of Omisssion and Commission in Change Detection. In IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium (pp. 6676-6679). IEEE.
+Tang, Xiaojing, Madison G. Barrett, Kangjoon Cho, Kelsee H. Bratley, Katelyn Tarrio, Yingtong Zhang, Hanfeng Gu, Peter Rasmussen, Marc Bosch, and Curtis E. Woodcock. "Broad-area-search of new construction using time series analysis of Landsat and Sentinel-2 data." Science of Remote Sensing 9 (2024): 100138.
 
-Baker, E., Nemet, G.F., and Rasmussen, P. Modeling the Costs of Carbon Capture. Handbook of CO<sub>2</sub> in Power Systems. Ed. Zheng, Q.P. et al. Springer, April 2012.
+Rasmussen, Peter, Jenna Abrahamson, Xiaojing Tang, Owen Smith, Josh Gray, Curtis Woodcock, and Marc Bosch. "Assessment of Performance of Tree-Based Algorithms to Reduce Errors of Omission and Commission in Change Detection." In IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium, pp. 6676-6679. IEEE, 2023.
 
-Jain, K., Rasmussen, P., Rethwisch, D.G., and Scranton, A.B. Enhanced Epoxidation of Soybean Oil through Microemulsion Technique. Polymer Preprints, 45(2), 579-580, 2004.
+Baker, Erin, Gregory Nemet, and Peter Rasmussen. "Modeling the costs of carbon capture." Handbook of CO₂ in Power Systems (2012): 349-372.
+
+Rasmussen, Peter G. "The economic impacts of technical change in carbon capture." (Masters thesis, University of Massachusetts Amherst, 2012)
+
+Rethwisch, David, Alec B. Scranton, Kaveri Jain, and Peter G. Rasmussen. "Enhanced epoxidation of soybean oil through microemulsion technique." In Abstracts of Papers of the American Chemical Society, vol. 228. 2004.
+
+## SKILLS
+
+### Programming
+Python | SQL | Bash | Git | AWS
+
+### Machine Learning
+Computer Vision | Remote Sensing | Anomaly Detection | Time Series | NLP
+
+### Data Tools
+Hadoop | Hive | Impala | HQL
 
 <!-- ### Footer
 
-Last updated: May 2024 -->
+Last updated: Feb 2025 -->
