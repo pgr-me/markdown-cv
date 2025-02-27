@@ -15,7 +15,7 @@ Data and Research Scientist
 
 ## PROFILE
 
-Data and Research Scientist specializing in computer vision (CV), remote sensing, and anomaly detection.
+I'm a multidisciplinary data and research scientist whose strength is conceiving of and implementing state-of-the-art, end-to-end AI / ML pipelines to solve complex problems.
 
 ## EXPERIENCE
 
