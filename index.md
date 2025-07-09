@@ -179,4 +179,4 @@ Hadoop | Hive | Impala | HQL
 
 <!-- ### Footer
 
-Last updated: Feb 2025 -->
+Last updated: Jul 2025 -->
