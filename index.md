@@ -25,7 +25,7 @@ I'm a multidisciplinary data and research scientist whose strength is conceiving
 <!-- 2023.12-Now-->
 `2023-Now` __AI / ML Computational Science Manager__ Washington, DC
 
-*Qwirkle Computer Vision Project (2024-2025)* In first iteration, conceived of and implemented production-grade broad area search classifier pipeline that detects anomalous objects. In second iteration, developing instance segmentation pipeline to be trained on hundreds of Gigabytes of imagery data. Wireframed frontend design for a human-in-the-loop prediction and annotation app that uses said pipeline as a prediction backend.
+*Qwirkle Computer Vision Project (2024-2025)* In first phase, conceived of and implemented production-grade broad area search classifier pipeline that detects anomalous objects. In second phase, developed instance segmentation pipeline trained on hundreds of Gigabytes of imagery data. Wireframed frontend design for a human-in-the-loop prediction and annotation app that uses said pipeline as a prediction backend. In third phase, developing unsupervised anomaly detection system leveraging state-of-the-art CV foundation models.
 
 *[IARPA Walkthrough Rendering from Images of Varying Altitude](https://www.iarpa.gov/research-programs/wriva) (2023-2024)* Led effort that developed method to register disparate satellite, aerial, and ground imagery. Researched novel methods to represent 3D scenes using 2D imagery.
 
