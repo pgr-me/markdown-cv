@@ -104,18 +104,21 @@ I'm a multidisciplinary data and research scientist whose strength is conceiving
 Led research team in analyzing investments in renewable energy and agricultural technologies, from conducting fieldwork in Nairobi and Mogadishu to market research, engineering design, and financial evaluation of potential projects. Co-organized first TEDxMogadishu, a series of talks given by Somalis on the "rebirth" of Mogadishu, including the resurgence of the private sector.
 
 ### EWB
-<!-- 2010.06-2011-05 -->
+<!-- 2010.06-2011.05 -->
 `2010-2011` __Program Manager__ Amherst, MA
 
 Managed Engineeers Without Borders (EWB) UMass Kenya program, which focused on improving the water quality in western Kenya for a rural community of approximately 10,000.
 
 ### UMass Amherst
-<!-- 2009.08-2011.05-->
+<!-- 2010.01-2011.05-->
 `2010-2011` __Research Assistant__ Amherst, MA
 
 Modeled long-term economic impacts of technical change in carbon capture given various greenhouse gas emissions policies. Conducted sensitivity analyses of key performance drivers of carbon capture costs to simulate the impact of technical change on cost.
 
+<!-- 2009.08-2009.12-->
 `2009` __Teaching Assistant__ Amherst, MA
+
+Presided over computer lab and graded homework and exams.
 
 ### ERM
 <!-- 2006.07-2009.08-->
@@ -124,7 +127,7 @@ Modeled long-term economic impacts of technical change in carbon capture given v
 Managed environmental consulting projects across multiple sectors. Successfully liaised between regulatory organizations and clients. Routinely developed reports, presentations, and proposals.
 
 ### University of Iowa
-`2002-2005` __Research Assistant__ Iowa City, IA
+`2002.10-2005.10` __Research Assistant__ Iowa City, IA
 
 Conducted research on microemulsions and their applications in the the development of environmentally-friendly photopolymers.
 
@@ -132,21 +135,25 @@ Conducted research on microemulsions and their applications in the the developme
 
 ### MS
 
+<!-- 2021.01-2024.05-->
 `2024`
 __Johns Hopkins University__ Artificial Intelligence
 
 ### Certification
 
+<!-- 2016.04-2024.06-->
 `2016`
 __Metis Data Science Bootcamp__
 
 ### MSIEOR
+<!--2009.08-2012.05-->
 `2012`
 __UMass Amherst__ Industrial Engineering & Operations Research
 
 Thesis: [The Economic Impacts of Technical Change in Carbon Capture](https://pdfs.semanticscholar.org/f71c/845c6138f339d273238b250549b8c0b40a8c.pdf)
 
 ### BSE
+<!--2006.08-2006.05-->
 `2006`
 __University of Iowa__ Chemical Engineering
 
