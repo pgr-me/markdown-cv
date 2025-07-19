@@ -127,7 +127,8 @@ Presided over computer lab and graded homework and exams.
 Managed environmental consulting projects across multiple sectors. Successfully liaised between regulatory organizations and clients. Routinely developed reports, presentations, and proposals.
 
 ### University of Iowa
-`2002.10-2005.10` __Research Assistant__ Iowa City, IA
+<!--2002.10-2005.10-->
+`2002-2005` __Research Assistant__ Iowa City, IA
 
 Conducted research on microemulsions and their applications in the the development of environmentally-friendly photopolymers.
 
