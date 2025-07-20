@@ -23,14 +23,14 @@ I'm a multidisciplinary data scientist and ML engineer whose strength is conceiv
 
 ### Accenture Federal
 <!-- 2023.12-Now-->
-`2023-Now` __AI / ML Computational Science Manager__ Washington, DC
+`2023-Now` __AI / ML Computational Science Manager__ Arlington, VA
 
 *Qwirkle Computer Vision Project (2024-2025)* In first phase, conceived of and implemented production-grade broad area search classifier pipeline that detects anomalous objects. In second phase, developed instance segmentation pipeline trained on hundreds of Gigabytes of imagery data. Wireframed frontend design for a human-in-the-loop prediction and annotation app that uses said pipeline as a prediction backend. In third phase, developing unsupervised anomaly detection system leveraging state-of-the-art CV foundation models.
 
 *[IARPA Walkthrough Rendering from Images of Varying Altitude](https://www.iarpa.gov/research-programs/wriva) (2023-2024)* Led effort that developed method to register disparate satellite, aerial, and ground imagery. Researched novel methods to represent 3D scenes using 2D imagery.
 
 <!-- 2019.8-2023.11-->
-`2019-2023` __Analytics Associate Manager__ Washington, DC
+`2019-2023` __Analytics Associate Manager__ Arlington, VA
 
 *[IARPA Space-Based Machine Automated Recognition Technique](https://www.iarpa.gov/research-programs/smart) (2021-2023)* Leadership of several modules in critical path played a key role in successfully reaching second phase of program. This success has contributed to follow-on research wins and serves as a credential in support of broader national security portfolio growth. Led two university teams & junior Accenture staff, integrating teams’ algorithms into pipeline under tight deadlines. For second client independent evaluation, made critical contribution by implementing innovative optimization routine. For third independent client evaluation, achieved step change improvement in scores by integrating outputs of both models.
 
