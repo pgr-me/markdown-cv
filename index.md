@@ -5,7 +5,7 @@ title: pgr-me
 
 # PETER RASMUSSEN
 
-Data and Research Scientist
+Data Scientist and Machine Learning Engineer
 
 <div id="webaddress">
 <a href="mailto:pgr-me@protonmail.com">pgr-me@protonmail.com</a>
