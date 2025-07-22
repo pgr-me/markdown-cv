@@ -15,7 +15,7 @@ Data Scientist and Machine Learning Engineer
 
 ## PROFILE
 
-I'm a multidisciplinary data scientist and ML engineer with over ten years of experience in AI/ML whose strength is conceiving of and implementing state-of-the-art, end-to-end AI / ML pipelines to solve complex problems.
+I'm a multidisciplinary data scientist and ML engineer with over ten years of experience in AI / ML whose strength is conceiving of and implementing state-of-the-art, end-to-end AI / ML pipelines to solve complex problems.
 
 ## EXPERIENCE
 
