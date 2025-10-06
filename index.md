@@ -162,6 +162,8 @@ Graduated with honors, minor in chemistry
 
 ## PUBLICATIONS
 
+Tang, Xiaojing, Madison G. Barrett, Kangjoon Cho, Kelsee H. Bratley, Katelyn Tarrio, Yingtong Zhang, Hanfeng Gu, Peter Rasmussen, Marc Bosch, and Curtis E. Woodcock. "Broad-area-search of new construction using time series analysis of Landsat and Sentinel-2 data." Science of Remote Sensing 9 (2024): 100138.
+
 Gu, Hanfeng, Xiaojing Tang, Kangjoon Cho, Amanda J. Acord, Peter G. Rasmussen, Marc Bosch, and Curtis E. Woodcock. "Detection of Heavy Construction Activities with the Integration of Landsat and Sentinel-1 Time Series." Available at SSRN 5042185, 2024.
 
 Tang, Xiaojing, Madison G. Barrett, Kangjoon Cho, Kelsee H. Bratley, Katelyn Tarrio, Yingtong Zhang, Hanfeng Gu, Peter Rasmussen, Marc Bosch, and Curtis E. Woodcock. "Broad-area-search of new construction using time series analysis of Landsat and Sentinel-2 data." Science of Remote Sensing 9 (2024): 100138.
