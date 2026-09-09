@@ -5,7 +5,9 @@ title: pgr-me
 
 # PETER RASMUSSEN
 
-Principal AI Engineer | Data Scientist | Machine Learning Engineer
+Principal AI Engineer<br>
+Data Scientist<br>
+Machine Learning Engineer
 
 <div id="webaddress">
 <a href="mailto:pgr-me@protonmail.com">pgr-me@protonmail.com</a>
@@ -19,7 +21,7 @@ Principal AI engineer and data scientist with more than a decade of experience b
 
 ## EXPERIENCE
 
-### The Baltimore Banner / Venetoulis Institute for Local Journalism
+### The Baltimore Banner
 `Nov 2025-Present` __Principal AI Engineer__
 
 *News Detector and newsroom intelligence* Led the design and development of News Detector, a live newsroom research product that identifies promising stories and lets reporters and editors investigate prior coverage. Expanded it from an emailed spreadsheet into an authenticated web application with conversational search, typed analysis panels, source links, filters, feedback controls, and editorially informed newsworthiness ranking across 100+ Maryland news and institutional sources.
