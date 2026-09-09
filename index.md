@@ -32,7 +32,7 @@ Principal AI engineer and data scientist with more than a decade of experience b
 
 *Reliable, economical data systems* Rebuilt the Mailchimp campaign-activity pipeline as an idempotent, control-driven workflow with reconciliation, safe resume behavior, production alarms, runbooks, and unit-cost measurement. Also rebuilt a flawed email pipeline at more than 95% lower cost and added data-quality and repair safeguards across engagement systems.
 
-*AI-enabled engineering at scale* Created a cross-repository control plane and a session-based agentic engineering workflow linking Jira work to scoped implementation, validation evidence, and human-gated production actions. Built the tooling through 38 merged pull requests; the approach supported reported cloud savings of more than $2,000 per month and is being adopted beyond the initial team.
+*AI-enabled engineering at scale* Created a cross-repository control plane and a session-based agentic engineering workflow linking Jira work to scoped implementation, validation evidence, and human-gated production actions. The approach supported reported cloud savings of more than $2,000 per month and is being adopted beyond the initial team.
 
 *Communication and responsible AI* Authored a Data and AI Management Plan for the Venetoulis Institute, presented personalization and engineering work to stakeholders and industry audiences, and created plain-language newsroom guidance on AI evidence, limitations, and editorial authority.
 
