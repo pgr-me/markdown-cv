@@ -5,7 +5,7 @@ title: pgr-me
 
 # PETER RASMUSSEN
 
-Data Scientist and Machine Learning Engineer
+Principal AI Engineer | Data Scientist | Machine Learning Engineer
 
 <div id="webaddress">
 <a href="mailto:pgr-me@protonmail.com">pgr-me@protonmail.com</a>
@@ -15,9 +15,24 @@ Data Scientist and Machine Learning Engineer
 
 ## PROFILE
 
-I'm a multidisciplinary data scientist and ML engineer with over ten years of experience in AI / ML whose strength is conceiving of and implementing state-of-the-art, end-to-end AI / ML pipelines to solve complex problems.
+Principal AI engineer and data scientist with more than a decade of experience building production AI, data, and analytics systems. I turn complex editorial and business needs into reliable, evidence-based products—from retrieval and recommendation workflows to scalable data platforms and human-in-the-loop tools.
 
 ## EXPERIENCE
+
+### The Baltimore Banner / Venetoulis Institute for Local Journalism
+`Nov 2025-Present` __Principal AI Engineer__
+
+*News Detector and newsroom intelligence* Led the design and development of News Detector, a live newsroom research product that identifies promising stories and lets reporters and editors investigate prior coverage. Expanded it from an emailed spreadsheet into an authenticated web application with conversational search, typed analysis panels, source links, filters, feedback controls, and editorially informed newsworthiness ranking across 100+ Maryland news and institutional sources.
+
+*Prior Coverage and editorial workflows* Delivered archive search and AI briefing capabilities with topic, author, publisher, location, coverage-scope, and date filters; source-linked claims; and deterministic fallbacks when a briefing cannot be safely produced. Built ingestion for RSS, web pages, press releases, paywalled sitemaps, newsletters, Instagram, and structured events, plus a reader-tips triage pipeline that reduced measured model cost per tip by 48.9% through prompt caching.
+
+*Personalization and audience intelligence* Developed an omnichannel personalization strategy and reusable engagement data products across web, app, email, content, and user-level views. Designed and productionized a rigorously tested seven-segment subscriber framework, validated engagement measures, and integrated the mobile-app GA4 feed after launch.
+
+*Reliable, economical data systems* Rebuilt the Mailchimp campaign-activity pipeline as an idempotent, control-driven workflow with reconciliation, safe resume behavior, production alarms, runbooks, and unit-cost measurement. Also rebuilt a flawed email pipeline at more than 95% lower cost and added data-quality and repair safeguards across engagement systems.
+
+*AI-enabled engineering at scale* Created a cross-repository control plane and a session-based agentic engineering workflow linking Jira work to scoped implementation, validation evidence, and human-gated production actions. Built `jira-mcp` through 38 merged pull requests; the approach supported reported cloud savings of more than $2,000 per month and is being adopted beyond the initial team.
+
+*Communication and responsible AI* Authored a Data and AI Management Plan for the Venetoulis Institute, presented personalization and engineering work to stakeholders and industry audiences, and created plain-language newsroom guidance on AI evidence, limitations, and editorial authority.
 
 <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 
@@ -179,13 +194,13 @@ Rethwisch, David, Alec B. Scranton, Kaveri Jain, and Peter G. Rasmussen. "Enhanc
 ## SKILLS
 
 ### Programming
-Python | SQL | Bash | Git | AWS
+Python | SQL | TypeScript/React | Bash | Git | AWS | Azure OpenAI
 
 ### Machine Learning
-Computer Vision | Remote Sensing | Anomaly Detection | Time Series | NLP
+Retrieval-Augmented Generation | Hybrid Search | Embeddings | Prompt Evaluation | PCA | k-Means | Ward Clustering | Computer Vision | Remote Sensing | Anomaly Detection | Time Series | NLP
 
 ### Data Tools
-Hadoop | Hive | Impala | HQL
+S3 | Aurora PostgreSQL | Redshift | OpenSearch | ECS/Fargate | Lambda | Glue | MWAA/Airflow | CloudWatch | GA4 | Mailchimp | Hadoop | Hive | Impala | HQL
 
 <!-- ### Footer
 
