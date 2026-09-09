@@ -17,7 +17,7 @@ Machine Learning Engineer
 
 ## PROFILE
 
-Principal AI engineer and data scientist with more than a decade of experience building production AI, data, and analytics systems. I turn complex editorial and business needs into reliable, evidence-based products—from retrieval and recommendation workflows to scalable data platforms and human-in-the-loop tools.
+Principal AI engineer and data scientist with more than a decade of experience building production AI, data, and analytics systems. I turn complex business needs into reliable, evidence-based products—from retrieval and recommendation workflows to scalable data platforms and human-in-the-loop tools.
 
 ## EXPERIENCE
 
